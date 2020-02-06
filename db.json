@@ -8,7 +8,83 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "students": [
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    },
+    {
+      "name": "Anderson Cooper",
+      "id": 0000001,
+      "graduationYear": 2021,
+      "finalLetter": "A",
+      "finalPercent": 92
+    }
+  ]
 }
