@@ -2,7 +2,7 @@
   "posts": [
     {
       "name": "Anderson Cooper",
-      "id": 5000001,
+      "id": "5000001",
       "graduationYear": 2021,
       "finalLetter": "A",
       "finalPercent": 92
