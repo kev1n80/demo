@@ -2,17 +2,27 @@
   "students": [
     {
       "name": "Anderson Cooper",
-      "id": "5000001",
-      "graduationYear": 2021,
-      "finalLetter": "A",
-      "finalPercent": 92
+      "studentId": "5000001"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "courses": [
+    { "courseId": "1", "name": "Organic Chemistry", "credits": 4 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "status": [
+    { "studentId": "5000001", "status": "co-op", "graduationYear": 2021j}
+  ],
+  "exams": [
+    {
+      "courseId": "1",
+      "studentId": "5000001",
+      "name": "Midterm" ,
+      "grade": 92
+    },
+    {
+      "courseId": "1",
+      "studentId": "5000001",
+      "name": "Final" ,
+      "grade": 88
+    },
+  ],
 }
