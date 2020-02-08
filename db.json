@@ -9,7 +9,7 @@
     { "courseId": "1", "name": "Organic Chemistry", "credits": 4 }
   ],
   "status": [
-    { "studentId": "5000001", "status": "co-op", "graduationYear": 2021j}
+    { "studentId": "5000001", "status": "co-op", "graduationYear": 2021}
   ],
   "exams": [
     {
