@@ -51,6 +51,14 @@
       "notes": "Failing"
     }
   ],
+  "posts": [
+    {
+      "title": "pharmd",
+      "teaser": "stuff",
+      "body": "safd fadfdf fadf da fda",
+      "created_at": "March 20, 2001"
+    }
+  ],
   "profile": {
     "name": "kev1n80"
   }
