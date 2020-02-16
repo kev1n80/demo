@@ -25,6 +25,32 @@
       "notes": "Failing"
     }
   ],
+  "student": [
+    {
+      "name": "Anderson Cooper",
+      "studentId": "5000001",
+      "graduationYear": "2021",
+      "orgoFinalGrade": 70,
+      "orgoFinalLetter": "C",
+      "orgo2FinalGrade": 91,
+      "orgo2FinalLetter": "A",
+      "pcolFinalGrade": 82,
+      "pcolFinalLetter": "B",
+      "pcol2FinalGrade": 97,
+      "pcol2FinalLetter": "A",
+      "cdmFinalGrade": 84,
+      "cdmFinalLetter": "B",
+      "cdm2FinalGrade": 64,
+      "cdm2FinalLetter": "D",
+      "aiFinalGrade": 42,
+      "aiFinalLetter": "F",
+      "cdm3FinalGrade": 100,
+      "cdm3FinalLetter": "A",
+      "cdm4FinalGrade": 77,
+      "cdm4FinalLetter": "C",
+      "notes": "Failing"
+    }
+  ],
   "profile": {
     "name": "kev1n80"
   }
